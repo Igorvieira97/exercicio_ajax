@@ -46,7 +46,9 @@ Para mostrar outro usuário, altere a variável endpoint no arquivo ajax.html:
 
 const endpoint = "https://api.github.com/users/OutroUsuario";
 
+```
 📂 Estrutura do projeto
 ├── ajax.html      # Página principal
 ├── main.css       # Estilos do projeto
 └── README.md      # Este arquivo
+```
